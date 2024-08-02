@@ -7,3 +7,4 @@ Open the PR!
 | **ToaruOS**  | x86_64, aarch64 | no | Hybrid | Education | yes | yes | 18 | tmpfs, ext2 | NCSA |
 | **Fusion**   | x86_64 | yes | Monolithic | N/A | yes | no | 1 | N/A | MIT |
 | **SerenityOS** | i686 (discounted), x86_64 | yes | Monolithic | Desktop + Education | yes | yes | 1057 | ext2 | BSD-2 Clause
+| **ReactOS** | i386, x86_64 | yes | Hybrid | Desktop | yes | yes | 271 | FAT32, BTRFS, NTFS (Read only) | GPL 2.0, LGPL 2.1, BSD-2 Clause
