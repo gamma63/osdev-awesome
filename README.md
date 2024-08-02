@@ -9,3 +9,4 @@ Open the PR!
 | **SerenityOS** | i686 (discounted), x86_64 | yes | Monolithic | Desktop + Education | yes | yes | 1057 | ext2 | BSD-2 Clause
 | **ReactOS** | i386, x86_64 | yes | Hybrid | Desktop | yes | yes | 271 | FAT32, BTRFS, NTFS (Read only) | GPL 2.0, LGPL 2.1, BSD-2 Clause
 | **SkiftOS** | x86_64, aarch64, RiscV | yes | Microkernel | Desktop | yes | yes | 45 | ? | MIT
+| **HaikuOS** | i386, x86_64, RiscV | yes | Hybrid | Desktop | yes | yes | 274 | OpenBeFS | MIT and Be Sample Code License
