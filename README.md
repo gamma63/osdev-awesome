@@ -10,3 +10,4 @@ Open the PR!
 | **ReactOS** | i386, x86_64 | yes | Hybrid | Desktop | yes | yes | 271 | FAT32, BTRFS, NTFS (Read only) | GPL 2.0, LGPL 2.1, BSD-2 Clause
 | **SkiftOS** | x86_64, aarch64, RiscV | yes | Microkernel | Desktop | yes | yes | 45 | ? | MIT
 | **HaikuOS** | i386, x86_64, RiscV | yes | Hybrid | Desktop | yes | yes | 274 | OpenBeFS | MIT and Be Sample Code License
+| **Vinix** | x86_64 | yes | Modular | Desktop | yes | yes | 36 | ext2, vfs, tmpfs. devtmpfs | GPLv2
