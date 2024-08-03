@@ -11,3 +11,4 @@ Open the PR!
 | **SkiftOS** | x86_64, aarch64, RiscV | yes | Microkernel | Desktop | yes | yes | 45 | ? | MIT
 | **HaikuOS** | i386, x86_64, RiscV | yes | Hybrid | Desktop | yes | yes | 274 | OpenBeFS | MIT and Be Sample Code License
 | **Vinix** | x86_64 | yes | Modular | Desktop | yes | yes | 36 | ext2, vfs, tmpfs. devtmpfs | GPLv2
+| **Gloire (ironclad)** | x86_64 | yes | Monolithic | Desktop + Embedded | yes | yes | 3 | ext2 | GPLv3
