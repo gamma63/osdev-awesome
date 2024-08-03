@@ -12,3 +12,4 @@ Open the PR!
 | **HaikuOS** | i386, x86_64, RiscV | yes | Hybrid | Desktop | yes | yes | 274 | OpenBeFS | MIT and Be Sample Code License
 | **Vinix** | x86_64 | yes | Modular | Desktop | yes | yes | 36 | ext2, vfs, tmpfs. devtmpfs | GPLv2
 | **Gloire (ironclad)** | x86_64 | yes | Monolithic | Desktop + Embedded | yes | yes | 3 | ext2 | GPLv3
+| **LemonOS** | x86_64 | yes | Modular | Desktop | yes | yes | 6 | tarfs, fat32 | BSD-2 Clause
