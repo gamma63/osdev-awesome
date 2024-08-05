@@ -15,3 +15,4 @@ Open the PR!
 | **LemonOS** | x86_64 | yes | Modular | Desktop | yes | yes | 6 | tarfs, fat32 | BSD-2 Clause
 | **soso** | i686 | no | Monolithic | Education | yes | yes | 2 | fat32, devfs | BSD-2 Clause
 | **MOROS** | x86_64 | yes | Monolithic | Desktop | yes | no | 6 (4 excluding bots) | ext2 | MIT
+| **SayoriOS** | i386/i686 | yes | Monolithic | Desktop + Education | yes | yes | 6 | FAT12, FAT32, tmpfs, natfs, nvfs, nullfs | GPLv3
