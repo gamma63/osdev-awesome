@@ -17,3 +17,4 @@ Open the PR!
 | **MOROS** | x86_64 | yes | Monolithic | Desktop | yes | no | 6 (4 excluding bots) | ext2 | MIT
 | **SayoriOS** | i386/i686 | yes | Monolithic | Desktop + Education | yes | yes | 6 | FAT12, FAT32, tmpfs, natfs, nvfs, nullfs | GPLv3
 | **Lyre** | x86_64 | no | ? | Desktop | yes | yes | ? | ? | BSD-2 Clause (probably)
+| **Aero** | x86_64, aarch64 | yes | Monolithic | Desktop | yes | yes | 12 (11 excluding bots) | ext2 | GPLv3
