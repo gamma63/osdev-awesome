@@ -20,4 +20,4 @@ Open the PR!
 | **Aero** | x86_64, aarch64 | yes | Monolithic | Desktop | yes | yes | 12 (11 excluding bots) | ext2 | GPLv3
 | **NanoshellOS** | i686 | yes | Monolithic | Desktop | yes | yes | 5 | ext2 | GPLv3
 | **LucarioOS** | i686 | yes | Monolithic | Desktop | no | under construction | 1 | N/A | MIT
-| **EggOS** | i386/i686 | no | Unikernel | Education | yes | no | 6 | vfs, devfs | MIT
+| **EggOS** | i386/i686, x86_64 | no | Unikernel | Education | yes | no | 6 | vfs, devfs | MIT
