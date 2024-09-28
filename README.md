@@ -1,5 +1,5 @@
 # Not Found your OS?
-Open the PR!
+### Open the PR!
 ```* = on halt```
 
 | Name  | Architectures | Active? | Kernel architecture          | Target              | Userpace? | GUI? | Contributors | Filesystem              | License                    |
